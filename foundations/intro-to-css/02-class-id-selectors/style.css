@@ -1,7 +1,7 @@
 /* Add CSS Styling */
 .pclass,
 .pclass3{
-    background-color: pink;
+    background-color: hsl(350, 100%, 88%);
     font-family: 'Verdana', 'DejaVu Sans', sans-serif;
 }
 .pclass3{
@@ -9,7 +9,7 @@
 }
 
 #Number2{
-    color: blue;
+    color: hsl(240, 100%, 50%);
     font-size: 36px;
 }
 
