@@ -1,1 +1,20 @@
 /* Add CSS Styling */
+.pclass,
+.pclass3{
+    background-color: pink;
+    font-family: 'Verdana', 'DejaVu Sans', sans-serif;
+}
+.pclass3{
+    font-size: 24px;
+}
+
+#Number2{
+    color: blue;
+    font-size: 36px;
+}
+
+#Number4{
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
